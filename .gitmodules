@@ -1,0 +1,3 @@
+[submodule "themes/cait"]
+	path = themes/cait
+	url = git@github.com:DevOpsClubCZ/pelican-cait.git
