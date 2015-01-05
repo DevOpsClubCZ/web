@@ -2,3 +2,5 @@
 *.pyc
 cache/*
 output/*
+content/cache/*
+content/output/*
