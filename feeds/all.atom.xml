@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>DevOps @ cz</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-01-06T00:00:00+01:00</updated><entry><title>První DevOps club</title><link href="/prvni-devops-club.html" rel="alternate"></link><updated>2015-01-06T00:00:00+01:00</updated><author><name>Věroš Kaplan</name></author><id>tag:,2015-01-06:prvni-devops-club.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;První DevOps club&lt;/strong&gt; se koná 29.1.2015 v 19:00.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>DevOps @ cz</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-01-06T00:00:00+01:00</updated><entry><title>První DevOps club</title><link href="/prvni-devops-club.html" rel="alternate"></link><updated>2015-01-06T00:00:00+01:00</updated><author><name>Věroš Kaplan</name></author><id>tag:,2015-01-06:prvni-devops-club.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;První DevOps club&lt;/strong&gt; se koná ve čtvrtek 29.1.2015 v 19:00.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Co je to DevOpsClub?&lt;/strong&gt; DevOps club je nepravidelné setkání lidí pohybujících se okolo Dev, Ops nebo DevOps (ať už to znamená cokoliv).&lt;/p&gt;
 &lt;p&gt;Kde: &lt;a href="http://www.kolocava.com/"&gt;Pivnice Koločava&lt;/a&gt;, Bayerova 10, Brno. &lt;a href="http://www.openstreetmap.org/node/1371469303"&gt;Mapa&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Tento DevOps club je společný se setkáním Pythonistů (&lt;a href="http://lanyrd.com/2015/brno-pyvo/"&gt;brněnské PyVo&lt;/a&gt;) a 
 &lt;a href="http://lanyrd.com/2015/brno-pyvo/"&gt;Brno Ruby Users Group&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Setkání je otevřené, může přijít kdokoliv. Registrace na &lt;a href="http://lanyrd.com/2015/brno-pyvo/"&gt;Lanyrdu&lt;/a&gt; ale organizátorům pomůže odhadnout velikost sálu.&lt;/p&gt;
+&lt;p&gt;Setkání je otevřené, může přijít kdokoliv. Registrace na &lt;a href="http://lanyrd.com/2015/brno-pyvo/"&gt;Lanyrdu&lt;/a&gt; ale organizátorům pomůže odhadnout účast. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Přednášky:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Foreman&lt;/li&gt;
 &lt;li&gt;Ansible&lt;/li&gt;
 &lt;li&gt;lightning talks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;FAQ:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Koločava je nekuřácká a vaří tam. Dobře.&lt;/li&gt;
+&lt;li&gt;K dispozici bude projektor s VGA kabelem, další přednášky uvítáme.&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="Brno"></category><category term="Meetup"></category></entry></feed>
