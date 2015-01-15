@@ -22,7 +22,8 @@ AUTHOR_FEED_RSS = None
 
 USE_CUSTOM_MENU = True
 CUSTOM_MENUITEMS = [
-    ['Brno', '/tag/brno.html'],
+    ['Brno', 'tag/brno.html'],
+#    ['Praha', 'tag/praha.html'],
 ]
 
 STATIC_PATHS = ['images', 'extra/CNAME']
