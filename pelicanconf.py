@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 USE_CUSTOM_MENU = True
 CUSTOM_MENUITEMS = [
-    ['Brno', '{tag}brno'],
+    ['Brno', '/tag/brno.html'],
 ]
 
 STATIC_PATHS = ['images', 'extra/CNAME']
