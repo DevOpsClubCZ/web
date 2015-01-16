@@ -1,5 +1,5 @@
 # DevOpsClub.cz web
 
-Tohle jsou zdrojový data stránek http://devopsclub.cz/
+Tohle jsou zdrojová data webových stránek http://devopsclub.cz/
 
 
