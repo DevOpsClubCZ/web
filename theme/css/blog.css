@@ -82,7 +82,9 @@ body {
     color: #8e927e; }
   .entry-header h1 {
     margin: 0.5em 0; }
-
+footer.read-more {
+  text-align: right;
+}
 .post-content a {
   color: #38c5c5; }
 .post-content img {
