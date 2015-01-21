@@ -4,3 +4,5 @@ cache/*
 output/*
 content/cache/*
 content/output/*
+pelican.pid
+srv.pid
