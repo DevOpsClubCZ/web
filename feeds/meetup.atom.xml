@@ -9,6 +9,7 @@
 &lt;ul&gt;
 &lt;li&gt;The Foreman and Katello for provisioning, configuration and content management &lt;/li&gt;
 &lt;li&gt;Ansible - get your hands dirty&lt;/li&gt;
+&lt;li&gt;SaltStack - bude upřesněno&lt;/li&gt;
 &lt;li&gt;service discovery for docker cluster&lt;/li&gt;
 &lt;li&gt;Dokku - docker pro lenochy&lt;/li&gt;
 &lt;li&gt;lightning talks &lt;/li&gt;
